@@ -1,0 +1,1 @@
+![Build and Test](https://github.com/Likitha-HR/ci-lab-6/actions/workflows/ci.yml/badge.svg?branch=main)
